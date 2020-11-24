@@ -7,4 +7,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrusso96&layout=compact&langs_count=6" />
 </a>
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=lrusso96)](https://wakatime.com/@lrusso96)
+<details>
+  <summary>:zap: Wakatime Week Stats</summary>
+  
+  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=lrusso96&hide_title=true)](https://wakatime.com/@lrusso96)
+
+</details>
