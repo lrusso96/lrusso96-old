@@ -16,6 +16,13 @@
 </p>
 
 <details>
+  <summary>:zap: Wikipedia Stats</summary>
+  
+  ![Wikipedia](https://lrusso96.vercel.app/api/wikipedia)
+
+</details>
+
+<details>
   <summary>:zap: Wakatime Week Stats</summary>
   
   [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=lrusso96&hide_title=true)](https://wakatime.com/@lrusso96)
