@@ -1,5 +1,6 @@
 import fetch from "isomorphic-unfetch";
 
+//TODO: refactor
 const {
     WIKIPEDIA_USER: wikipedia_user,
 } = process.env;
