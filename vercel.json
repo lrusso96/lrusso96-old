@@ -1,0 +1,10 @@
+{
+  "name": "lrusso96/lrusso96",
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/$1"
+    }
+  ]
+}

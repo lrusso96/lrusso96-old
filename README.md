@@ -13,3 +13,11 @@
   [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=lrusso96&hide_title=true)](https://wakatime.com/@lrusso96)
 
 </details>
+
+<h1>
+  Some tools
+</h1>
+
+<p align="center">
+  <img src="https://lrusso96.vercel.app/api/skills">
+</p>
