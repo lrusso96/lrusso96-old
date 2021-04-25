@@ -1,10 +1,5 @@
-<h3 align="center">
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Computer%20engineer%20&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p>
 
 <!-- Badges template - https://github.com/badges/shields -->
