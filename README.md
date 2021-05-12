@@ -51,32 +51,22 @@
 ## 👨‍💻 Languages and tools
 
 <p align="center">
+    
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
-    <img alt="Python" title="Python" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajava">
-    <img alt="Java" title="Java" height="36px"
-      src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-    <img alt="JavaScript" title="JavaScript" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Aruby">
-    <img alt="Ruby" title="Ruby" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></a>
-  <a>
-    <img alt="Rails" title="Rails" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></a>
-  <a><img alt="Jekyll" title="Jekyll" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png"></a>
+    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"></a>
+  <a><img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
+  <a><img alt="Jekyll" title="Jekyll" src="https://img.shields.io/badge/jekyll-grey.svg?&style=for-the-badge&logo=jekyll&logoColor=F21616"></a>
 <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3latex">
-    <img alt="LaTeX" title="LaTeX" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></a>
-  <a><img alt="Markdown" title="Markdown" height="36px"
-      src="https://i.imgur.com/eO5z1xV.png"></a>
-  <a><img alt="GitHub" title="GitHub" height="36px"
-      src="https://i.imgur.com/DZgetVv.png"></a>
-  <a><img alt="Visual Studio" title="Visual Studio Code" height="36px"
-      src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"></a>
+<img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"></a>
+  <a><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"></a>
+  <a><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 ## 📊 More Stats
