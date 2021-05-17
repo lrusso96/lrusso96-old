@@ -64,7 +64,6 @@
   <a><img alt="Jekyll" title="Jekyll" src="https://img.shields.io/badge/jekyll-grey.svg?&style=for-the-badge&logo=jekyll&logoColor=F21616"></a>
 <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3latex">
 <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"></a>
-  <a><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"></a>
   <a><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
