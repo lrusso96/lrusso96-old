@@ -19,11 +19,11 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/lrusso96/Cryptography">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lrusso96&repo=Cryptography&theme=react&bg_color=0D1117&hide_border=true" alt="Cryptography"></a>
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lrusso96&repo=Cryptography&theme=react&bg_color=0D1117&hide_border=true" alt="Cryptography"></a>
   <a href="https://github.com/lrusso96/simple-biblio">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lrusso96&repo=simple-biblio&theme=react&bg_color=0D1117&hide_border=true" alt="simple-biblio"></a>
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lrusso96&repo=simple-biblio&theme=react&bg_color=0D1117&hide_border=true" alt="simple-biblio"></a>
 <a href="https://github.com/lrusso96/milites">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lrusso96&repo=milites&theme=react&bg_color=0D1117&hide_border=true" alt="milites"></a>
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lrusso96&repo=milites&theme=react&bg_color=0D1117&hide_border=true" alt="milites"></a>
 </p>
 
 <p align="left">
@@ -34,11 +34,11 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-stats"></a>
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-stats"></a>
   <a href="https://github.com/LithiumSR/openstud_driver">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LithiumSR&repo=openstud_driver&theme=react&bg_color=0D1117&hide_border=true" alt="openstud_driver"></a>
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LithiumSR&repo=openstud_driver&theme=react&bg_color=0D1117&hide_border=true" alt="openstud_driver"></a>
 <a href="https://github.com/Project2100/Cryptography-2018_19">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Project2100&repo=Cryptography-2018_19&theme=react&bg_color=0D1117&hide_border=true" alt="Cryptography-2018_19"></a>
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Project2100&repo=Cryptography-2018_19&theme=react&bg_color=0D1117&hide_border=true" alt="Cryptography-2018_19"></a>
 </p>
 
 ## 🔥 Streak stats
