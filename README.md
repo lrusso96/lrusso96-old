@@ -93,9 +93,11 @@
 
 </details>
 
+<!-- https://github.com/anuraghazra/github-readme-stats
 <details>
   <summary>🕛 Wakatime Week Stats</summary>
   
   [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=lrusso96&hide_title=true)](https://wakatime.com/@lrusso96)
 
 </details>
+-->
