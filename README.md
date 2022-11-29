@@ -25,7 +25,6 @@
 <a href="https://github.com/lrusso96/milites">
     <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lrusso96&repo=milites&theme=react&bg_color=0D1117&hide_border=true" alt="milites"></a>
 </p>
-
 <p align="left">
   <a href="https://github.com/lrusso96?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -37,9 +36,14 @@
     <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-stats"></a>
   <a href="https://github.com/LithiumSR/openstud_driver">
     <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LithiumSR&repo=openstud_driver&theme=react&bg_color=0D1117&hide_border=true" alt="openstud_driver"></a>
-<a href="https://github.com/Project2100/Cryptography-2018_19">
+  <a href="https://github.com/TeamNewPipe/NewPipeExtractor">
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TeamNewPipe&repo=NewPipeExtractor&theme=react&bg_color=0D1117&hide_border=true" alt="NewPipeExtractor"></a>
+  <a href="https://github.com/JHUISI/charm">
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JHUISI&repo=charm&theme=react&bg_color=0D1117&hide_border=true" alt="charm"></a>
+  <a href="https://github.com/Project2100/Cryptography-2018_19">
     <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Project2100&repo=Cryptography-2018_19&theme=react&bg_color=0D1117&hide_border=true" alt="Cryptography-2018_19"></a>
 </p>
+
 
 ## 🔥 Streak stats
 
